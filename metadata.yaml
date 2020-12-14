@@ -1,0 +1,22 @@
+_repo: Weale-s-Series-of-Scientific-and-Technical-Works_63907
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crosby Lockwood and Son
+    gutenberg_agent_id: '52656'
+    url: http://www.gutenberg.org/2009/agents/52656
+description: ''
+gutenberg_issued: '2020-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Publishers'' catalogs -- England -- London'
+- !lcc 'Z'
+- GITenberg
+title: Weale's Series of Scientific and Technical Works
+url: http://www.gutenberg.org/ebooks/63907
